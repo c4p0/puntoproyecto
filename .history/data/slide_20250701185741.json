@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Punto Proyecto hace realidad tu sueño .",
+    "image": "img/slide/slide01.jpg"
+  },
+  {
+    "title": "Sample text here...",
+    "image": "img/slide/slide02.jpg",
+    "color": "text-black"
+  }
+]
