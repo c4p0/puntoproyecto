@@ -1,4 +1,4 @@
-baseURL = "https://puntoproyecto.netlify.app/"
+baseURL = "https://example.com"
 title = "punto proyecto"
 author = "cielito networks"
 languageCode = "es"
@@ -42,7 +42,7 @@ enableRobotsTXT = true
     meta_description = "Arquitrectura para disfrutar"
     meta_og_title = "Punto proyecto - Arquitectura para exteriores"
     meta_og_type = "website"
-    meta_og_url = "https://puntoproyecto.netlify.app/"
+    meta_og_url = "https://tella.pages.dev"
     meta_og_image = "https://raw.githubusercontent.com/opera7133/tella/master/images/tn.png"
     meta_og_description = "Punto proyecto - Arquitectura para exteriores"
     meta_twitter_card = "summary_large_image"
@@ -64,9 +64,9 @@ enableRobotsTXT = true
     weight = 2
 
   [[menu.main]]
-    identifier = "somos"
+    identifier = "about"
     name = "Somos"
-    url = "/somos/"
+    url = "/about/"
     weight = 3
 
   [[menu.main]]

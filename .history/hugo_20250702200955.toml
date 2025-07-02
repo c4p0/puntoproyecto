@@ -64,7 +64,7 @@ enableRobotsTXT = true
     weight = 2
 
   [[menu.main]]
-    identifier = "somos"
+    identifier = ""
     name = "Somos"
     url = "/somos/"
     weight = 3
