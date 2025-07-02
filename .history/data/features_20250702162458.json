@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Profesionales",
+    "description": "Arquitectos, con amplia experiencia en vidrio, herrería y herrajes de alta tecnología. Un equipo que nos permite brindar soluciones para obra de forma segura y con una inigualable calidad. ",
+    "icon": "fa-solid fa-brain"
+  },
+  {
+    "title": "Resolutivos",
+    "description": "El equipo que conformamos, nos permite trabajar a gusto para alcanzar la solución deseada de manera rápida, y profesional, en donde siempre la satisfacción del cliente es nuestra prioridad..",
+    "icon": "mediation"
+  },
+  {
+    "title": "Calidad",
+    "description": "Trabajamos con las mejores marcas del mercado en materia de herrajes para cerramientos móviles, fijaciones de barandas, sistemas de control solar.",
+    "icon": "verified"
+  }
+]
